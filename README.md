@@ -3,3 +3,5 @@
 - Style binding
 - Event listening
 - Computed Properties
+
+![Screenshot](screenshot.png)
